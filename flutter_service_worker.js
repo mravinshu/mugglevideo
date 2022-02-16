@@ -20,9 +20,9 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "Images/Campus%20Dairies.jpg": "6251671b288dd20f17683685e4538acc",
-"index.html": "7e99e0a0205152aa6b89a9c56bb336f0",
-"/": "7e99e0a0205152aa6b89a9c56bb336f0",
-"main.dart.js": "067dccaf4caa1f265253d08ad25e9194",
+"index.html": "480b52596654efb64588e20df5dc224c",
+"/": "480b52596654efb64588e20df5dc224c",
+"main.dart.js": "c7ec09a6aa059672b3d6a42c53d66be2",
 "manifest.json": "cacef7d03f7c989b0e0f455994f82fae",
 "version.json": "af91588f43a00c0adf7931d169b771cc"
 };
