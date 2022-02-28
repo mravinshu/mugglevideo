@@ -3,14 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c8b49cc14e037e5b2fbb4a71e3d4e653",
+  "assets/AssetManifest.json": "a1d59640ab3c766ed791c59114bc4983",
 "assets/assets/1414-2763-gang.riv": "56a2e20e91294af9f6a06b19c79b5f27",
-"assets/assets/file.json": "44e59a3fbe77a693bbf657aa8a7f2687",
+"assets/assets/file.json": "07cc0a456db3a239af77dd8a907c5bfa",
 "assets/assets/new_file.riv": "34502bb706ac3fafe8e4fa520c80493b",
+"assets/assets/try.json": "cf2f825552870d7f62e6621af167e1e5",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "96b2db35a627e229da75a2edb645e134",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/NOTICES": "4ff7773f87739502e7b86cb5131061b0",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -21,9 +23,9 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "Images/Campus%20Dairies.jpg": "6251671b288dd20f17683685e4538acc",
-"index.html": "106b415bcda962898d3952731546f985",
-"/": "106b415bcda962898d3952731546f985",
-"main.dart.js": "01ffe45b42590732a9ab8e7799fded99",
+"index.html": "4a50089f6a14e338b8d7053b3e1ea923",
+"/": "4a50089f6a14e338b8d7053b3e1ea923",
+"main.dart.js": "aa9db90ba1e90580637eb16fb1a6ff19",
 "manifest.json": "cacef7d03f7c989b0e0f455994f82fae",
 "version.json": "af91588f43a00c0adf7931d169b771cc"
 };

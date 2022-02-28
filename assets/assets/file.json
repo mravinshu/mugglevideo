@@ -1,1 +1,14 @@
-[{"name":"Campus Dairies","year":"","image":"","link":"https://drive.google.com/file/d/1ULW85KbWQKqvFxE75rTxaYpVe9xNw34x/view?usp=sharing"}]
+[
+  {
+    "name": "Campus Dairies",
+    "season": 1,
+    "episode": 12,
+    "s1 e1": "link1",
+    "s2 e2":"link2"
+  },
+  {
+    "name": "The Amazing spider man 2",
+    "season": 0,
+    "link" : "link"
+  }
+]
